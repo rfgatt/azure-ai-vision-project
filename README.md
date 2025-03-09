@@ -27,6 +27,6 @@ Os arquivos processados com reconhecimento de texto foram salvos na pasta [`outp
 ### 🔹 Exemplo de Saída (OCR)
 ```json
 {
-  "text": "Loja de Café",
+  "text": "Carta",
   "confidence": 0.98
 }
